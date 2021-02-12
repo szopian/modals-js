@@ -1,1 +1,1 @@
-# modals-js
+# Code for modals
